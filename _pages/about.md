@@ -28,21 +28,6 @@ Before Columbia, I was a Pre-doctoral Research Fellow at the Climate Impact Lab 
 
 **Stock Market Reactions to Environmental Activism**
 
-
-<a name="teaching"></a>
-## Teaching
-
-**Columbia University**
-
-| Semester | Course | Instructor |
-|---|---|---|
-| 2026 | Experimental Economics (PhD) | Robert Metcalfe |
-| 2025 | Intermediate Microeconomics | Susan Elmes |
-| 2025 | Climate Finance | José Scheinkman & Harrison Hong |
-| 2024 | Principles of Economics | Sunil Gulati |
-| 2024 | Intermediate Microeconomics | Isaac Bjorke |
-| 2023 | Intermediate Microeconomics | Susan Elmes |
-
 ---
 
 <a name="contact"></a>
