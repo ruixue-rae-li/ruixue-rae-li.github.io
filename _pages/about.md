@@ -21,10 +21,10 @@ Before Columbia, I was a Pre-doctoral Research Fellow at the Climate Impact Lab 
 ### Work in Progress
 
 **Impact of Air Pollution on Consumption Behavior using Credit Card and Mobility Data**
-*with Sefi Roth (London School of Economics) and Wookun Kim (Southern Methodist University)*
+*with Sefi Roth and Wookun Kim*
 
 **Health Effects of Afforestation in Northern China** *(draft available upon request)*
-*with Artemis Yuanxiaoyue Yang (University of Zurich)*
+*with Artemis Yuanxiaoyue Yang*
 
 **Stock Market Reactions to Environmental Activism**
 
