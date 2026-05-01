@@ -18,7 +18,7 @@ author:
   location         : "New York, NY"
   employer         :
   uri              :
-  email            : "rl3320@columbia.edu"
+  email            :
 
   # Academic websites
   academia         :
@@ -38,7 +38,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "ruixue-rae-li"
+  github           :
   kaggle           :
   stackoverflow    :
 
