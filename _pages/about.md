@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "Ruixue (Rae) Li — Environmental Economics PhD Candidate, Columbia University"
+description: "Ruixue (Rae) Li is a PhD candidate in Environmental Economics and Sustainable Development at Columbia University. Research in environmental policy, air pollution, and applied microeconomics."
+keywords: "Ruixue Li, Rae Li, environmental economics, Columbia University, economics, PhD candidate, applied microeconomics, sustainable development"
 author_profile: true
 redirect_from:
   - /about/

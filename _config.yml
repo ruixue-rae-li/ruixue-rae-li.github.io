@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Ruixue (Rae) Li"
 title_separator          : "-"
 name                     : &name "Ruixue (Rae) Li"
-description              : &description "PhD Candidate in Sustainable Development, Columbia University"
+description              : &description "Ruixue (Rae) Li — PhD Candidate in Environmental Economics and Sustainable Development at Columbia University. Research in applied microeconomics, environmental policy, and causal inference."
 url                      : https://ruixue-rae-li.github.io
 baseurl                  : ""
 repository               : "ruixue-rae-li/ruixue-rae-li.github.io"
@@ -80,11 +80,11 @@ twitter:
   username               :
 facebook:
   username               :
-og_image                 :
-og_description           :
+og_image                 : /images/profile-photo.jpg
+og_description           : "Ruixue (Rae) Li is a PhD candidate in Environmental Economics at Columbia University, researching environmental policy, air pollution, and applied microeconomics."
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : "Ruixue (Rae) Li"
   links:
 
 # Analytics
