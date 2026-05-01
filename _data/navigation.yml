@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Research"
     url: /#research
-  - title: "Teaching"
-    url: /#teaching
   - title: "CV"
     url: /files/ruixue_rae_li_cv.pdf
   - title: "Contact"
